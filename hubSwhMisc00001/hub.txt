@@ -1,0 +1,5 @@
+hub hubSwhMisc00001
+shortLabel hubSwhMisc00001
+longLabel hubSwhMisc00001
+genomesFile genomes.txt
+email stephen.hartley.phd
